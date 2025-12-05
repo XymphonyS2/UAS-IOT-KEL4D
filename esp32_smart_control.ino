@@ -6,7 +6,7 @@
 
 const char* ssid = "Sikat";
 const char* password = "ilalalala";
-const char* serverURL = "http://10.136.128.130/web/api/esp32_data.php";
+const char* serverURL = "http://10.136.128.130/chimon/api/esp32_data.php";
 
 #define DHT_PIN         32
 #define LDR_PIN         34
